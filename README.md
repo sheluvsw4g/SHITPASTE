@@ -1,2 +1,6 @@
 # SHITPASTE
-сшиттері 
+
+сшиттері
+
+---
+*Dev environment ready.*
