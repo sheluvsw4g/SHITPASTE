@@ -1,0 +1,11 @@
+{
+    "user": [
+        {
+            "id": 2,
+            "name": "test",
+            "surname": "test",
+            "photo_url": "https://raw.githubusercontent.com/...",
+            "balance": 1500
+        }
+    ]
+}
